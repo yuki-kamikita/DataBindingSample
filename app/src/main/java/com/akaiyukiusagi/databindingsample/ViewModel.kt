@@ -11,9 +11,5 @@ class ViewModel : ViewModel() {
     init{
         text.value = "初期値"
     }
-
-    fun applyText() {
-
-    }
 }
 
